@@ -6,3 +6,8 @@ if contry == '台灣':
 		print('可以考駕照')
 	else:
 		print('不可以考駕照')
+elif contry == '美國':
+	if age >= 16:
+		print('可以考駕照')
+	else:
+		print('不可以考駕照')
